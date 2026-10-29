@@ -79,7 +79,7 @@ Methods referenced
 - Gorton, G. and Rouwenhorst, K. G. (2006). "Facts and Fantasies about Commodity Futures." *Financial Analysts Journal* 62(2), 47–68. [doi.org/10.2469/faj.v62.n2.4083](https://doi.org/10.2469/faj.v62.n2.4083)
 - Erb, C. B. and Harvey, C. R. (2006). "The Strategic and Tactical Value of Commodity Futures." *Financial Analysts Journal* 62(2), 69–97. [doi.org/10.2469/faj.v62.n2.4084](https://doi.org/10.2469/faj.v62.n2.4084)
 
-All code, charts and text are the author's own.
+Code, analysis, charts and text were produced with AI assistance (Claude, by Anthropic) and reviewed by Gaurav Gupta.
 
 ## Run it
 
